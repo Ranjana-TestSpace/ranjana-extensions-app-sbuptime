@@ -19,7 +19,7 @@ export default {
   flex: 1;
   width: 100%;
   height: 100vh; /* Full viewport height */
-  min-width: 800px; /* Force it to be broad */
+  min-width: 1000px; /* Force it to be broad */
   overflow: hidden;
   margin: 0;
   padding: 0;
